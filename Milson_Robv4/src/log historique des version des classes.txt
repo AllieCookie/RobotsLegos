@@ -1,0 +1,21 @@
+26 avril:
+recupération blaise 26 avril classe:
+	elements
+	carteImagee
+
+01 mai:
+récupération partie IA Alison et maj interface
+
+
+08 mai:
+Carte modifié: fonction set
+
+09 mai: 
+carteImagee
+
+10 mai:
+IARobot maj depuis Alison 10 05
+Commande maj depuis Alison 10 05
+
+15 mai:
+v3 changement des positions avec les positions reels dans iP et commande 

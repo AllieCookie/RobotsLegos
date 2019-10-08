@@ -1,0 +1,15 @@
+2019-29-09 03:29:06.IARobot.3.4.mouv= u
+2019-29-09 03:29:10.IARobot.2.4.mouv= s
+2019-29-09 03:29:13.IARobot.2.3.mouv= l
+2019-29-09 03:29:17.IARobot.2.2.mouv= s
+2019-29-09 03:29:20.IARobot.3.2.mouv= l
+2019-29-09 03:29:24.IARobot.3.2.prendre
+2019-29-09 03:29:27.IARobot.2.2.mouv= u
+2019-29-09 03:29:31.IARobot.2.1.mouv= l
+2019-29-09 03:29:34.IARobot.2.0.mouv= r
+2019-29-09 03:29:38.IARobot.1.0.mouv= s
+2019-29-09 03:29:41.IARobot.1.1.mouv= s
+2019-29-09 03:29:45.IARobot.0.1.mouv= l
+2019-29-09 03:29:48.IARobot.0.2.mouv= s
+2019-29-09 03:29:52.IARobot.0.2.deposer
+Nombre de Lignes du Log : 14
